@@ -126,9 +126,9 @@ class CyberAssistant:
 # df = pd.DataFrame(some_dict)
 
 
-John = CyberAssistant()
-John.download('Книга1.xlsx')
-print(John.df)
+# John = CyberAssistant()
+# John.download('Книга1.xlsx')
+# print(John.df)
 
 # John.recalculation_1param(lambda x: x*10, 'Напряжение', 'Напряжение_10')
 # print(John.df)
